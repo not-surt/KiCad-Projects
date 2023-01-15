@@ -1,4 +1,4 @@
-20596788115456326
+20601810757167196
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50316,6 +50316,20 @@ Custom
 2
 2
 Custom
+Adjustable
+
+
+0
+8
+2
+Custom
+Breadboard_Row
+
+
+0
+5
+5
+Custom
 SolderJumper-2_P1.3mm_Open_RoundedPad0.8x1.0mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
 solder jumper open
@@ -50331,11 +50345,18 @@ solder jumper open
 2
 Custom
 SolderJumper-mini
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.2mm gap, open
+SMD Solder Jumper, 0.5x1.0mm, rounded Pads, 0.2mm gap, open
 solder jumper open
 0
 2
 2
+Custom
+SolderJumper-mini-3
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
 Custom
 Strip
 Through hole straight pin header, 1x05, 2.54mm pitch, single row
