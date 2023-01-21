@@ -69,7 +69,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "smd_led_adapter.kicad_prl",
+    "filename": "neopixel_adapter.kicad_prl",
     "version": 3
   },
   "project": {
