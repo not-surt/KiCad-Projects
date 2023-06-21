@@ -746,13 +746,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R13") (unit 1)
+          (reference "R21") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R14") (unit 1)
+          (reference "R25") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R15") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -761,7 +761,7 @@
   (symbol (lib_id "Transistor_FET:IPD50R3K0CE") (at 167.64 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0af21b34-c122-403e-8d97-dbade6d6bdc2)
-    (property "Reference" "Q13" (at 173.99 60.325 0)
+    (property "Reference" "Q3" (at 173.99 60.325 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "N-CHANNEL POWER MOSFET" (at 173.99 62.865 0)
@@ -779,13 +779,13 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q13") (unit 1)
+          (reference "Q3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q14") (unit 1)
+          (reference "Q2") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q15") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -848,13 +848,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R10") (unit 1)
+          (reference "R17") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R3") (unit 1)
+          (reference "R10") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R4") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -883,13 +883,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R25") (unit 1)
+          (reference "R11") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R26") (unit 1)
+          (reference "R15") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R27") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -898,7 +898,7 @@
   (symbol (lib_id "Transistor_FET:2N7002K") (at 167.64 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6859b591-1898-4baa-8a7c-5b024fca7879)
-    (property "Reference" "Q10" (at 173.99 116.205 0)
+    (property "Reference" "Q14" (at 173.99 116.205 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2N7002K" (at 173.99 118.745 0)
@@ -916,13 +916,13 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q10") (unit 1)
+          (reference "Q14") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q11") (unit 1)
+          (reference "Q16") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q12") (unit 1)
+          (reference "Q18") (unit 1)
         )
       )
     )
@@ -951,13 +951,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R5") (unit 1)
+          (reference "R18") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R11") (unit 1)
+          (reference "R23") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R12") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -986,13 +986,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R19") (unit 1)
-        )
-        (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
           (reference "R20") (unit 1)
         )
+        (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
+          (reference "R24") (unit 1)
+        )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R21") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -1001,7 +1001,7 @@
   (symbol (lib_id "Transistor_FET:2N7002K") (at 167.64 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 96d8dd76-d9f3-463b-8c44-ad34d7e5bef1)
-    (property "Reference" "Q19" (at 173.99 78.105 0)
+    (property "Reference" "Q7" (at 173.99 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2N7002K" (at 173.99 80.645 0)
@@ -1019,13 +1019,13 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q19") (unit 1)
+          (reference "Q7") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q20") (unit 1)
+          (reference "Q9") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q21") (unit 1)
+          (reference "Q11") (unit 1)
         )
       )
     )
@@ -1054,13 +1054,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R16") (unit 1)
+          (reference "R19") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R17") (unit 1)
+          (reference "R22") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R18") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -1069,7 +1069,7 @@
   (symbol (lib_id "Transistor_FET:2N7002K") (at 167.64 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afc65d61-9551-4866-9cb5-5737e3f1e671)
-    (property "Reference" "Q7" (at 173.99 103.505 0)
+    (property "Reference" "Q13" (at 173.99 103.505 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2N7002K" (at 173.99 106.045 0)
@@ -1087,13 +1087,13 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q7") (unit 1)
+          (reference "Q13") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q8") (unit 1)
+          (reference "Q15") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q9") (unit 1)
+          (reference "Q17") (unit 1)
         )
       )
     )
@@ -1125,10 +1125,10 @@
           (reference "R6") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R28") (unit 1)
+          (reference "R5") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R29") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -1226,13 +1226,13 @@
           (reference "Q1") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q5") (unit 1)
+          (reference "Q6") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q1") (unit 1)
+          (reference "Q5") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q2") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )
@@ -1261,13 +1261,13 @@
           (reference "R3") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "R22") (unit 1)
+          (reference "R12") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "R23") (unit 1)
+          (reference "R16") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "R24") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -1276,7 +1276,7 @@
   (symbol (lib_id "Transistor_FET:2N7002K") (at 167.64 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f51ff1ad-2742-4f25-b315-873cb4db29a4)
-    (property "Reference" "Q3" (at 173.99 90.805 0)
+    (property "Reference" "Q8" (at 173.99 90.805 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2N7002K" (at 173.99 93.345 0)
@@ -1294,13 +1294,13 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/258ce20e-5ce9-4ea1-8e7c-5850fed98bbd"
-          (reference "Q3") (unit 1)
+          (reference "Q8") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/9c0fbe89-e198-43eb-9b57-d3a53c936eb1"
-          (reference "Q4") (unit 1)
+          (reference "Q10") (unit 1)
         )
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3/e60dacfb-78fd-4308-9ad3-144c6fb5c777"
-          (reference "Q6") (unit 1)
+          (reference "Q12") (unit 1)
         )
       )
     )

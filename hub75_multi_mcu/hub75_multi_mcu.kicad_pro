@@ -390,7 +390,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -405,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dmd_hub.kicad_pro",
+    "filename": "hub75_multi_mcu.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -422,10 +422,27 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
+        "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "bus_width": 24,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 12
       }
     ],
     "meta": {
@@ -433,7 +450,180 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VIN"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_20"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_19"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_18"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_17"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_16"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_15"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_14"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_13"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_12"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_11"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_21"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_22"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_23"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_24"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_25"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_26"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_27"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_28"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_29"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_30"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_31"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_32"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_33"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_34"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_35"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_36"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_37"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_38"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_39"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_40"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_4"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_5"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_6"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_7"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_8"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_9"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Pin_10"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -473,7 +663,9 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
     "spice_save_all_currents": false,
     "spice_save_all_voltages": false,
     "subpart_first_id": 65,
@@ -547,6 +739,14 @@
     [
       "f35ab057-31c8-42ea-9a1f-dd7324c8ed7d",
       "IDC15 (OE) Pin Jumpers"
+    ],
+    [
+      "b98a6142-9de9-4daa-82ca-4b511e94766f",
+      "Upper IDC Pins Level Shifting"
+    ],
+    [
+      "b86b2309-f0c3-4073-9e09-3ca20f80a408",
+      "Lower IDC Pins Level Shifting"
     ]
   ],
   "text_variables": {}

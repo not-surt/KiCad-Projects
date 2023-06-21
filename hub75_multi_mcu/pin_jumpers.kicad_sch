@@ -1,4 +1,4 @@
-(kicad_sch (version 20221206) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid 07b77996-2c59-4e15-882f-975caa871f50)
 
@@ -710,7 +710,7 @@
     (pin "2" (uuid b774c015-5c0e-4c95-9e71-77a99b7e7783))
     (pin "3" (uuid 5cfe392c-72a0-4390-9470-c0eb8224fb79))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP29") (unit 1)
         )
@@ -782,7 +782,7 @@
     (pin "2" (uuid 136f9dd7-c74e-41ae-891b-60ddbb9137e4))
     (pin "3" (uuid bd15afba-b1be-41a6-95cb-b7f0f23d23b4))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP37") (unit 1)
         )
@@ -854,7 +854,7 @@
     (pin "2" (uuid 773e9c7e-36b8-4973-916d-aa0f944f445e))
     (pin "3" (uuid 5bb01bbc-1d19-417d-b3e3-d8967382f659))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP22") (unit 1)
         )
@@ -926,7 +926,7 @@
     (pin "2" (uuid 2a7f03f4-a11f-4a73-8fd6-38cabd94ca38))
     (pin "3" (uuid f6520d9d-55d6-4f45-ab4f-194c41144dbf))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP35") (unit 1)
         )
@@ -998,7 +998,7 @@
     (pin "2" (uuid 68630a40-6a98-4563-a51b-7b2333a2d557))
     (pin "3" (uuid 96ffa63e-ccfb-4f65-88da-5159d3f60456))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP31") (unit 1)
         )
@@ -1070,7 +1070,7 @@
     (pin "2" (uuid 689a7e96-40c9-4958-9d6c-2aef51876496))
     (pin "3" (uuid c62fc284-e828-4321-92fc-5bade39f8230))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP27") (unit 1)
         )
@@ -1142,7 +1142,7 @@
     (pin "2" (uuid 21ff8989-1a10-491d-978c-5f5cfa338f7d))
     (pin "3" (uuid 14d70844-09eb-422f-8cd0-ac70db72998a))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP23") (unit 1)
         )
@@ -1214,7 +1214,7 @@
     (pin "2" (uuid 25c5c163-99be-4769-8bce-9b454ee61d6c))
     (pin "3" (uuid 5f094a01-973c-4f94-83cb-8d131445fa02))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP36") (unit 1)
         )
@@ -1286,7 +1286,7 @@
     (pin "2" (uuid f922113c-6c0f-402b-8334-46068f1586a6))
     (pin "3" (uuid c6fb35ae-bea9-4b16-854b-39283c6c8a48))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP34") (unit 1)
         )
@@ -1358,7 +1358,7 @@
     (pin "2" (uuid b039b3e4-166f-47fa-9373-88db20ed4f20))
     (pin "3" (uuid 06e6a50b-0fa8-4487-b9b9-19131b256eb5))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP39") (unit 1)
         )
@@ -1430,7 +1430,7 @@
     (pin "2" (uuid 15949e9d-3165-482e-a4e4-a61202df4304))
     (pin "3" (uuid 634fc7b2-4dde-4029-a457-80a355d64dac))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP38") (unit 1)
         )
@@ -1502,7 +1502,7 @@
     (pin "2" (uuid fc554174-c86e-47c6-b9fa-88ecbf96d865))
     (pin "3" (uuid 1906a629-82eb-4712-b7b4-062cb2a3dbe4))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP24") (unit 1)
         )
@@ -1574,7 +1574,7 @@
     (pin "2" (uuid eb582241-84e4-48c2-abd5-5c8b44efeb9d))
     (pin "3" (uuid 7fd04e44-c269-4c53-a8b4-5a0a41bacd58))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP30") (unit 1)
         )
@@ -1646,7 +1646,7 @@
     (pin "2" (uuid ed693e09-0c04-4f18-ac6f-3a75cf263a5a))
     (pin "3" (uuid ab7a3f30-0ece-4b0a-be5a-04d119da757f))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP41") (unit 1)
         )
@@ -1718,7 +1718,7 @@
     (pin "2" (uuid f44baecf-963f-468a-9e04-ba3c81ceb7a3))
     (pin "3" (uuid cec5c91a-33b9-4ca8-96cc-31465831bf0e))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP26") (unit 1)
         )
@@ -1790,7 +1790,7 @@
     (pin "2" (uuid 92e34fc8-79c6-4f37-929e-2b3b3734a916))
     (pin "3" (uuid cbbdc128-48ff-407e-bef2-55d6a762bfd3))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP40") (unit 1)
         )
@@ -1862,7 +1862,7 @@
     (pin "2" (uuid 70924730-3987-4d89-bad5-95f88b33943c))
     (pin "3" (uuid 9f92ac55-4f0b-4433-8b2a-672cb2f5a370))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP32") (unit 1)
         )
@@ -1934,7 +1934,7 @@
     (pin "2" (uuid 82f93525-7885-4025-a6d4-e84c7cd097ae))
     (pin "3" (uuid 1017af15-1a93-4b35-bc49-cf5debf11cd0))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP33") (unit 1)
         )
@@ -2006,7 +2006,7 @@
     (pin "2" (uuid 95b7b7f4-af46-4cff-a487-ed2c772e49e1))
     (pin "3" (uuid 9a3ba325-be27-49bd-9253-4e3073f38e78))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP25") (unit 1)
         )
@@ -2078,7 +2078,7 @@
     (pin "2" (uuid 1c7eb070-4272-4945-adfa-f5c012677fc9))
     (pin "3" (uuid 8d5c58c1-26b4-41f3-ae35-674d999164a0))
     (instances
-      (project "dmd_hub"
+      (project "hub75_multi_mcu"
         (path "/37e83767-17a6-4f6f-bca3-7247f5413245/78002fd6-e110-4f70-ada8-72ce5ca7e141"
           (reference "JP28") (unit 1)
         )

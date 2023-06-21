@@ -1488,7 +1488,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 278.13 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03ce8f12-b7cd-43f5-826d-df47a041689e)
-    (property "Reference" "J6" (at 280.67 106.045 0)
+    (property "Reference" "J2" (at 280.67 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (at 280.67 107.315 0)
@@ -1507,7 +1507,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J6") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -1516,7 +1516,7 @@
   (symbol (lib_id "Jumper:SolderJumper_3_Open") (at 76.2 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b953f70-809f-4d41-ad01-bde6456dc7b3)
-    (property "Reference" "JP22" (at 76.2 91.44 0)
+    (property "Reference" "JP5" (at 76.2 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SolderJumper_3_Open" (at 76.2 93.98 0)
@@ -1534,7 +1534,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "JP22") (unit 1)
+          (reference "JP5") (unit 1)
         )
       )
     )
@@ -1568,7 +1568,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 269.24 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1abec506-0c1f-496b-ab81-ca189b0a6aab)
-    (property "Reference" "J5" (at 271.78 106.045 0)
+    (property "Reference" "J1" (at 271.78 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (at 271.78 107.315 0)
@@ -1587,7 +1587,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J5") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -1621,7 +1621,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 250.19 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3580cbe9-776f-4c6d-9b89-fe90014b5a59)
-    (property "Reference" "JP19" (at 250.19 105.41 0)
+    (property "Reference" "JP2" (at 250.19 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SolderJumper_2_Bridged" (at 250.19 105.41 0)
@@ -1638,7 +1638,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "JP19") (unit 1)
+          (reference "JP2") (unit 1)
         )
       )
     )
@@ -1647,7 +1647,7 @@
   (symbol (lib_id "Device:R") (at 250.19 123.19 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 380f874e-37d3-4bae-af47-885fdc729dc4)
-    (property "Reference" "R9" (at 250.19 120.65 90)
+    (property "Reference" "R3" (at 250.19 120.65 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "R" (at 250.19 123.19 90)
@@ -1664,7 +1664,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "R9") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -1730,7 +1730,7 @@
   (symbol (lib_id "Device:R") (at 250.19 102.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 447cc2c0-7d29-42e5-a49c-4e42d4be2108)
-    (property "Reference" "R7" (at 250.19 100.33 90)
+    (property "Reference" "R1" (at 250.19 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "R" (at 250.19 102.87 90)
@@ -1747,7 +1747,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "R7") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -1756,7 +1756,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 250.19 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4998e3df-154e-4ac6-b14a-e9d2a0b0d1aa)
-    (property "Reference" "JP18" (at 250.19 95.25 0)
+    (property "Reference" "JP1" (at 250.19 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SolderJumper_2_Bridged" (at 250.19 95.25 0)
@@ -1773,7 +1773,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "JP18") (unit 1)
+          (reference "JP1") (unit 1)
         )
       )
     )
@@ -1782,7 +1782,7 @@
   (symbol (lib_id "Jumper:Jumper_3_Open") (at 76.2 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 55372a82-513c-4ef7-97d8-887ea364255a)
-    (property "Reference" "JP21" (at 76.2 106.68 0)
+    (property "Reference" "JP4" (at 76.2 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Jumper_3_Open" (at 76.2 109.22 0)
@@ -1800,7 +1800,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "JP21") (unit 1)
+          (reference "JP4") (unit 1)
         )
       )
     )
@@ -1836,7 +1836,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 21.59 120.65 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62fba92e-254f-4d57-bc34-45bfd46eae7f)
-    (property "Reference" "J7" (at 21.59 128.27 0)
+    (property "Reference" "J5" (at 21.59 128.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x02" (at 21.59 125.73 0)
@@ -1853,7 +1853,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J7") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -1887,7 +1887,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 21.59 96.52 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73d57ad0-3989-42ad-b4e0-a76ada12c9f2)
-    (property "Reference" "J2" (at 22.86 93.98 0)
+    (property "Reference" "J7" (at 22.86 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Screw_Terminal_01x02" (at 19.05 99.695 0)
@@ -1904,7 +1904,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J2") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -1913,7 +1913,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 250.19 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7bab8251-b402-4de2-bcd9-9f43c1d0f233)
-    (property "Reference" "JP20" (at 250.19 115.57 0)
+    (property "Reference" "JP3" (at 250.19 115.57 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SolderJumper_2_Bridged" (at 250.19 115.57 0)
@@ -1930,7 +1930,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "JP20") (unit 1)
+          (reference "JP3") (unit 1)
         )
       )
     )
@@ -1939,7 +1939,7 @@
   (symbol (lib_id "Device:R") (at 156.21 102.87 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87fb4094-cf84-4ccd-8b5c-1a8687d021e1)
-    (property "Reference" "R2" (at 160.02 102.87 90)
+    (property "Reference" "R7" (at 160.02 102.87 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "33R" (at 156.21 102.87 90)
@@ -1956,7 +1956,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "R2") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -1965,7 +1965,7 @@
   (symbol (lib_id "Connector:Barrel_Jack_Switch") (at 19.05 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e405d10-61a5-4ee6-a64b-2b14731f1d6e)
-    (property "Reference" "J1" (at 19.05 102.87 0)
+    (property "Reference" "J8" (at 19.05 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Barrel_Jack_Switch" (at 19.05 102.87 0)
@@ -1983,7 +1983,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J1") (unit 1)
+          (reference "J8") (unit 1)
         )
       )
     )
@@ -2044,7 +2044,7 @@
   (symbol (lib_id "Device:R") (at 156.21 97.79 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bafab0d9-fa47-4424-a321-b4adb8645ca5)
-    (property "Reference" "R1" (at 160.02 97.79 90)
+    (property "Reference" "R13" (at 160.02 97.79 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 156.21 97.79 90)
@@ -2061,7 +2061,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "R1") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -2070,7 +2070,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 40.64 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c232c19e-8349-4064-a187-4beff37c65ed)
-    (property "Reference" "J8" (at 43.18 121.285 0)
+    (property "Reference" "J6" (at 43.18 121.285 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (at 43.18 123.825 0)
@@ -2087,7 +2087,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "J8") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -2121,7 +2121,7 @@
   (symbol (lib_id "Device:R") (at 250.19 113.03 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ce2a0d10-83e7-4f83-b811-538274fdafbc)
-    (property "Reference" "R8" (at 250.19 110.49 90)
+    (property "Reference" "R2" (at 250.19 110.49 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "R" (at 250.19 113.03 90)
@@ -2138,7 +2138,7 @@
     (instances
       (project "ws8211_dumb_adaptor2"
         (path "/caeba6dc-40c7-4978-ae06-c328ef162ad3"
-          (reference "R8") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
