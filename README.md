@@ -1,3 +1,3 @@
 # KiCad-Projects
 
-CC0 unless other wise stated in subdirectory.
+CC0 unless otherwise stated in subdirectory.
