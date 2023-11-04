@@ -508,7 +508,7 @@
     (property "Reference" "C1" (at 116.84 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (at 116.84 67.31 0)
+    (property "Value" "1uF" (at 116.84 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 122.8852 69.85 0)
